@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://localhost/mernAuth1",
+    "jwtSecret":"mysecret"
+}
